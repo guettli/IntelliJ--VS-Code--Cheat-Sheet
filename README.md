@@ -21,3 +21,12 @@ IntelliJ: ctrl-e ENTER [Upstream docs](https://www.jetbrains.com/help/idea/navig
 
 VS Code: ctrl-e After following [this configuration](https://stackoverflow.com/a/64129954/633961)
 
+## Search Everywhere
+
+Search-Everywhere is great in PyCharm. I could not find something similar in VSCode yet.
+
+ctrl-p in VSCode searches in filenames.
+
+# Auto-Save
+
+[Auto-Save](https://code.visualstudio.com/docs/editor/codebasics#_save-auto-save) needs to be enabled.
